@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @subhroster
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R
 - 📘 Read my bog - https://www.9to5sas.com/
 - 📫 How to reach me ...subhroster2007@gmail.com
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, HELLO, I'm Subhro! </h1>
+<h1 align="center">Hi 👋 I'm Subhro! </h1>
 <h2>⚡ About Me </h2>
 
  <ul>👋 A passionate Software Engineer from India</ul>

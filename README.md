@@ -5,7 +5,7 @@
  <ul>  👨‍🎓 I’ve pursued a Master's degree in MCA from VTU(Visvesvaraya Technological University), Bengaluru.</ul>
   <ul> 📘 Check out my blog for SAS tips and tricks <a href="https://www.9to5sas.com/">9to5sas</a> </ul>
 <ul>   📘 Check out my website for general tech <a href="https://www.subhbits.com/">subhbits</a> </ul>
-<ul>   📫 Contact me: subhroster2007@gmail.com </ul>
+<ul>   📫 Contact me: <a href="mailto:subhroster2007@gmail.com">subhroster2007@gmail.com</a> </ul>
 
 <!---
 subhroster/subhroster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

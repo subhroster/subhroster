@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 A passionate Software Engineer from India<br>👨‍🎓 I’ve pursued a Master's degree in MCA from VTU(Visvesvaraya Technological University), Bengaluru.<br>📘 Check out my blog for SAS tips and tricks 9to5sas<br>📘 Check out my website for general tech subhbits<br>📫 Contact me: subhroster2007@gmail.com
+👋 A passionate Software Engineer from India<br>👨‍🎓 I’ve pursued a Master's degree in MCA from VTU(Visvesvaraya Technological University), Bengaluru.<br>📘 Check out my blog for SAS tips and tricks 9to5sas<br>📘 Check out my website for general tech subhbits<br>📫 Contact me: subhrokar@subhbits.com
 
 
 ## 🌐 Socials:
